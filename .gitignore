@@ -1,0 +1,14 @@
+﻿# IDE
+.idea/
+
+# 开发日志
+coding_log.md
+
+# 虚拟环境
+venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
